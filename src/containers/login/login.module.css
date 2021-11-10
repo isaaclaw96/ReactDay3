@@ -1,0 +1,21 @@
+.login_holder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+form>*{
+    margin-bottom: 8px;
+    max-width:500px;
+}
+button{
+    padding: 5px;
+}

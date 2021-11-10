@@ -1,0 +1,7 @@
+header{
+    height: 80px;
+    width: 100vw;
+    background-color: skyblue;
+    padding: 10px;
+    box-sizing: border-box;
+}

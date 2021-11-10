@@ -1,0 +1,12 @@
+.dashboard_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.search_head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
